@@ -1,0 +1,15 @@
+/workspaces/codespaces-blank/Onix/bin/Debug/net7.0/Onix
+/workspaces/codespaces-blank/Onix/bin/Debug/net7.0/Onix.deps.json
+/workspaces/codespaces-blank/Onix/bin/Debug/net7.0/Onix.runtimeconfig.json
+/workspaces/codespaces-blank/Onix/bin/Debug/net7.0/Onix.dll
+/workspaces/codespaces-blank/Onix/bin/Debug/net7.0/Onix.pdb
+/workspaces/codespaces-blank/Onix/obj/Debug/net7.0/Onix.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/Onix/obj/Debug/net7.0/Onix.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/Onix/obj/Debug/net7.0/Onix.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/Onix/obj/Debug/net7.0/Onix.AssemblyInfo.cs
+/workspaces/codespaces-blank/Onix/obj/Debug/net7.0/Onix.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/Onix/obj/Debug/net7.0/Onix.dll
+/workspaces/codespaces-blank/Onix/obj/Debug/net7.0/refint/Onix.dll
+/workspaces/codespaces-blank/Onix/obj/Debug/net7.0/Onix.pdb
+/workspaces/codespaces-blank/Onix/obj/Debug/net7.0/Onix.genruntimeconfig.cache
+/workspaces/codespaces-blank/Onix/obj/Debug/net7.0/ref/Onix.dll
